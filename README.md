@@ -12,3 +12,6 @@ Day 1 of the Python unit as part of my coding bootcamp.
 - Built-in Functions, like range(), help(), len()
 - Try and Except
 - Lists (declaring lists, looping through lists, .pop(), .append(), etc.)
+
+## Technologies Used:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
